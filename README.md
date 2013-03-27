@@ -1,3 +1,5 @@
+使用PhoneGap构建的Hello World应用。 
+
 # Hello World PhoneGap Application
 
 > A Hello World application built with PhoneGap
